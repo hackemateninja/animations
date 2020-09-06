@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#292929"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "backgroundColor": "#292929",
+    "description": "React native collection of animations",
+    "privacy": "public"
   }
 }
